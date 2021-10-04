@@ -1,5 +1,4 @@
 # author: Akhil_Thomas_Panicker
-#copy
 library(spatstat)
 library(spatgraphs)
 library(igraph)
