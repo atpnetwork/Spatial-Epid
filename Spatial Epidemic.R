@@ -321,12 +321,6 @@ file=write.csv(Hp1,"plothosp4numerical")
 ################################################################
 ###########Delay################################################
 ################################################################
-m1 <- matrix(c(
-  1, 1, 2, 2,
-  1, 1, 2, 2,
-  3, 3, 4, 4,
-  3, 3, 4, 4), nrow = 4, ncol = 4, byrow = TRUE)
-layout(m1)
 #peak infection vs delay numerical solution
 #implement delay "d" days for introducing and removing social distancind
 SIRDelay=function(N,t,r,l,f,th,d){
