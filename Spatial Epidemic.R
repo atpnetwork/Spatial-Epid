@@ -1,4 +1,4 @@
-author: Akhil Thomas Panicker
+#author: Akhil Thomas Panicker
 library(spatstat)
 library(spatgraphs)
 library(igraph)
