@@ -1,6 +1,5 @@
-#################################Akhil_Thomas_Panicker#############################
-#################################Dept of Physics###################################
-#################################CUSAT#############################################
+# author: Akhil_Thomas_Panicker
+#copy
 library(spatstat)
 library(spatgraphs)
 library(igraph)
